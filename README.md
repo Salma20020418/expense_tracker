@@ -1,4 +1,4 @@
-# expense_tracker
+# Expense_Tracker
 1. This app is designed to provide users with a comprehensive and intuitive experience. With Our App, users can visualize their income and expenses in real-time graphs, giving them a clear understanding of their financial situation.
  ##
 <br>
