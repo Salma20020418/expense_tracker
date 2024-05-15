@@ -8,5 +8,5 @@ go to mongoDB atlas --> create new project "ExpenseTracker" --> Create cluster -
 Now go to Database --> Connect and Connect to MongoDB for VScode
 Make changes in the .env file for MONGO_URL accordingly
 
-<img width="1221" alt="ss1" src="https://github.com/Salma20020418/expense_tracker/assets/132143243/900403fe-ab95-4610-befc-2b69e7ca366e">
+<img width="1001" alt="ss1" src="https://github.com/Salma20020418/expense_tracker/assets/132143243/900403fe-ab95-4610-befc-2b69e7ca366e">
 
