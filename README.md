@@ -25,7 +25,5 @@ Make changes in the .env file for MONGO_URL accordingly
 ##
 
 Go to backend gitbash and do npm start
-
 <br>
-
 Go to frontend gitbash and do npm start
