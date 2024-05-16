@@ -29,4 +29,4 @@ Go to backend gitbash and do npm start
 Go to frontend gitbash and do npm start
 ##
 ## Project_Demo
-[Project_Demo_Link](https://drive.google.com/drive/folders/1JAC2GGmwusHHvOQc1DR72ol3Zi4-MHpl)
+[Project Demo Link](https://drive.google.com/drive/folders/1JAC2GGmwusHHvOQc1DR72ol3Zi4-MHpl)
